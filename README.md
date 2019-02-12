@@ -61,6 +61,18 @@ class StageNameDecoration(private val periods: List<Period>, ...) : ColumnNameDe
 
 [**Sample**](https://github.com/MoyuruAizawa/TimetableLayout/blob/master/app/src/main/java/io/moyuru/timetablelayoutsample/MainActivity.kt)
 
+# Features
+- [x] Vertical Scroll
+- [x] Horizontal Scroll 
+- [x] Horizontal Loop
+- [ ] Non Horizontal Loop
+- [x] Column Name Decoration
+- [x] Time Decoration
+- [ ] Current Time Decoration
+- [ ] Multi Column
+- [ ] Scrollbar
+- [ ] Pinch To Zoom
+
 # License
 ```
 Copyright 2019 Moyuru Aizawa
